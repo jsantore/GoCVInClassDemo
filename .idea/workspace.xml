@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2943dcf-4857-499b-8497-93861739d59a" name="Default Changelist" comment="" />
+    <list default="true" id="e2943dcf-4857-499b-8497-93861739d59a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceDetectDemo.go" beforeDir="false" afterPath="$PROJECT_DIR$/FaceDetectDemo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +45,21 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build FaceDetectDemo.go">
+    <configuration name="go build FaceDetectDemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoCVInClassDemo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/FaceDetectDemo.go" />
+      <package value="GoCVInClassDemo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build GoCVInClassDemo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoCVInClassDemo" />
       <working_directory value="$PROJECT_DIR$" />
@@ -52,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build FaceDetectDemo.go" />
         <item itemvalue="Go Build.go build GoCVInClassDemo" />
       </list>
     </recent_temporary>
@@ -68,21 +88,29 @@
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="2352" y="270" key="FileChooserDialogImpl/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606264493280" />
-    <state width="1225" height="259" key="GridCell.Tab.0.bottom" timestamp="1606264269140">
+    <state x="2412" y="427" width="525" height="199" key="Github.ShareDialog" timestamp="1606264508420">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state width="1225" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606264269140" />
-    <state width="1225" height="259" key="GridCell.Tab.0.center" timestamp="1606264269140">
+    <state x="2412" y="427" width="525" height="199" key="Github.ShareDialog/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606264508420" />
+    <state x="2284" y="207" key="Github.UntrackedFilesDialog" timestamp="1606264519799">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state width="1225" height="259" key="GridCell.Tab.0.center/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606264269140" />
-    <state width="1225" height="259" key="GridCell.Tab.0.left" timestamp="1606264269140">
+    <state x="2284" y="207" key="Github.UntrackedFilesDialog/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606264519799" />
+    <state width="1225" height="259" key="GridCell.Tab.0.bottom" timestamp="1606265762617">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state width="1225" height="259" key="GridCell.Tab.0.left/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606264269140" />
-    <state width="1225" height="259" key="GridCell.Tab.0.right" timestamp="1606264269140">
+    <state width="1225" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606265762617" />
+    <state width="1225" height="259" key="GridCell.Tab.0.center" timestamp="1606265762617">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state width="1225" height="259" key="GridCell.Tab.0.right/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606264269140" />
+    <state width="1225" height="259" key="GridCell.Tab.0.center/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606265762617" />
+    <state width="1225" height="259" key="GridCell.Tab.0.left" timestamp="1606265762617">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1225" height="259" key="GridCell.Tab.0.left/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606265762617" />
+    <state width="1225" height="259" key="GridCell.Tab.0.right" timestamp="1606265762617">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1225" height="259" key="GridCell.Tab.0.right/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606265762617" />
   </component>
 </project>
