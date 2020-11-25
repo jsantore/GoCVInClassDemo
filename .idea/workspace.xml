@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2943dcf-4857-499b-8497-93861739d59a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e2943dcf-4857-499b-8497-93861739d59a" name="Default Changelist" comment="blurring faces is included">
       <change beforePath="$PROJECT_DIR$/FaceDetectDemo.go" beforeDir="false" afterPath="$PROJECT_DIR$/FaceDetectDemo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +77,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="blurring faces is included" />
+    <option name="LAST_COMMIT_MESSAGE" value="blurring faces is included" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -96,21 +97,25 @@
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="2284" y="207" key="Github.UntrackedFilesDialog/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606264519799" />
-    <state width="1225" height="259" key="GridCell.Tab.0.bottom" timestamp="1606265762617">
+    <state width="1225" height="259" key="GridCell.Tab.0.bottom" timestamp="1606266397816">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state width="1225" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606265762617" />
-    <state width="1225" height="259" key="GridCell.Tab.0.center" timestamp="1606265762617">
+    <state width="1225" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606266397816" />
+    <state width="1225" height="259" key="GridCell.Tab.0.center" timestamp="1606266397816">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state width="1225" height="259" key="GridCell.Tab.0.center/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606265762617" />
-    <state width="1225" height="259" key="GridCell.Tab.0.left" timestamp="1606265762617">
+    <state width="1225" height="259" key="GridCell.Tab.0.center/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606266397816" />
+    <state width="1225" height="259" key="GridCell.Tab.0.left" timestamp="1606266397816">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state width="1225" height="259" key="GridCell.Tab.0.left/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606265762617" />
-    <state width="1225" height="259" key="GridCell.Tab.0.right" timestamp="1606265762617">
+    <state width="1225" height="259" key="GridCell.Tab.0.left/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606266397816" />
+    <state width="1225" height="259" key="GridCell.Tab.0.right" timestamp="1606266397816">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state width="1225" height="259" key="GridCell.Tab.0.right/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606265762617" />
+    <state width="1225" height="259" key="GridCell.Tab.0.right/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606266397816" />
+    <state x="2164" y="263" key="Vcs.Push.Dialog.v2" timestamp="1606265953925">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2164" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1044/1920.0.1280.1024@1920.0.1280.1024" timestamp="1606265953925" />
   </component>
 </project>

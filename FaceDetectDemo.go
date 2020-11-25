@@ -45,7 +45,12 @@ func FindFaces(camera *gocv.VideoCapture, window *gocv.Window, faceFiindingNet g
 			faceRegion := img.Region(rectangle)
 			gocv.GaussianBlur(faceRegion, &faceRegion, image.Pt(55, 95), 0, 0, gocv.BorderDefault)
 			faceRegion.Close()
+			textsize := gocv.GetTextSize("Redacted", gocv.FontHersheyDuplex, 1.5, 2)
+			textLocX := rectangle.Min.X + (rectangle.Max.X-rectangle.Min.X)/2 - textsize.X/2
+			textLocY := rectangle.Max.Y - (rectangle.Max.Y-rectangle.Min.Y)/2 - textsize.Y/2
+			textLoc := image.Pt(textLocX, textLocY)
 			gocv.Rectangle(&img, rectangle, colornames.Darkkhaki, 3)
+			gocv.PutText(&img, "Redacted", textLoc, gocv.FontHersheyDuplex, 1.5, colornames.Red, 2)
 		}
 		window.IMShow(img)
 		if window.WaitKey(10) >= 0 {
